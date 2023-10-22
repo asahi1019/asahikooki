@@ -4,8 +4,8 @@ var who68 = '花子が来た';
 function sayhello66() { 
   alert('Hello'+ who66 + '!');
 }
-function taro66() { 
+function taro67() { 
   who67 = '太郎が来た';
-} function hanako66() { 
+} function hanako68() { 
   who68 = '花子が来た';
 }
