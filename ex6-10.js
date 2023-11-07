@@ -1,6 +1,6 @@
 function imgchange1(){
   document.getElementById('logo').src=
-    './image/josai1.gif';}
+    './image/josai1.png';}
   function imgchange1(){
   document.getElementById('logo').src=
-    './image/josai2.gif';}
+    './image/josai2.png';}
