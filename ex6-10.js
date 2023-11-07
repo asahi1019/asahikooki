@@ -4,4 +4,3 @@ function imgchange1(){
   function imgchange1(){
   document.getElementByld('logo').src=
     './image/josai2.gif';}
-  
