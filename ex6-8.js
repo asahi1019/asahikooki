@@ -7,4 +7,4 @@ function taro68(){
 function hanako68(){
   document.getElementById('who68').innerHTML='花子';
 }
-function gazo688(){ document.getElementById('who688').innerHTML='<img src="./image/dhiaruga.jpg" alt="オン">';}
+function gazo688(){ document.getElementById('who688').innerHTML='<img src="./image/dhiaruga.jpg" alt="ポケモン">';}
