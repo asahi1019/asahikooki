@@ -1,7 +1,7 @@
 function kaeru(){
   document.getElementById('pokemon').src=
-    './image/dhiaruga.png';}
+    './image/dhiaruga.jpg';}
 function modosu(){
   document.getElementById('pokemon').src=
-    './image/parukia.png.png';}
+    './image/parukia.jpg.jpg';}
 
