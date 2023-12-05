@@ -1,4 +1,4 @@
 function add(){ var x= document.getElementById('input1').value;
                var y=document.getElementById('input2').value;
-               alert(Math.sqrt(x)+(y));
+               alert(Math.sqrt(x+y));
               }
